@@ -1,4 +1,4 @@
-package xlive_lib
+package avlib
 
 type AVFormat interface {
 	Initialize(Config)

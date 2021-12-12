@@ -1,4 +1,4 @@
-package xlive_lib
+package avlib
 
 const (
 	HLS       = `hls`

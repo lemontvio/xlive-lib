@@ -1,4 +1,4 @@
-package avutil
+package avlib
 
 type AVCrawler interface {
 	Initialize(config Config)

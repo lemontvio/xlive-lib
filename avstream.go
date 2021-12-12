@@ -1,4 +1,4 @@
-package avutil
+package avlib
 
 import (
 	"sync"
