@@ -1,4 +1,4 @@
-package xlive_lib
+package avutil
 
 type AVScheduler interface {
 	Call(Config)

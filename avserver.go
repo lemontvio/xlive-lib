@@ -1,4 +1,4 @@
-package xlive_lib
+package avutil
 
 type AVServer interface {
 	Serve()

@@ -1,4 +1,4 @@
-package xlive_lib
+package avutil
 
 type AVCrawler interface {
 	Initialize(config Config)
