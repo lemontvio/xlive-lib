@@ -10,4 +10,4 @@ type AVServer interface {
 	Version() string
 }
 
-type AVServerCall func() AVServer
+type AVServerCall func()  AVServer
