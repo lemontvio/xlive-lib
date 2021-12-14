@@ -20,5 +20,6 @@ type AVIO interface {
 	Write([]byte, float64) error
 	Write2([]byte, float64, int, string) error
 
+	Do(int, int, func(string, bool))
 	Close() error
 }
