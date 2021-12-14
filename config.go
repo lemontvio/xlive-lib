@@ -30,4 +30,6 @@ type Config struct {
 	Wran Warn
 	WranTimeout 	int
 	WranLoopTime 	int
+
+	AVServerEnableEncryption bool
 }
