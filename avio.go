@@ -18,6 +18,7 @@ type AVIO interface {
 	WriteToSegment(io.Writer, string) error
 
 	Write([]byte, float64) error
+	WriteRange([]byte, float64, int) error
 	Write2([]byte, float64, int, string) error
 
 	Do(int, int, func(string, bool))

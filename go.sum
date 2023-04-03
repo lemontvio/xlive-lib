@@ -1,2 +1,4 @@
 github.com/lemontvio/go-requests v0.0.2 h1:/dEeiJmIQoNpx7qRvhe8My3SvW4P++2mneJiJceRMbw=
 github.com/lemontvio/go-requests v0.0.2/go.mod h1:7UOj+5MOw/XOUWqll9KO8Ncn/31/L0riS7kPIrbmX+0=
+github.com/lemontvio/go-requests v0.0.3 h1:m/1DrYfKnBMC+WXiy3PpKRrg7lw2PFveyLN1Nkeyuyo=
+github.com/lemontvio/go-requests v0.0.3/go.mod h1:eyijJRUT/jLnlia1aDRr7Khr9d1rpsAUVm7+q0iWuoM=
